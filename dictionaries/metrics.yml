@@ -1,0 +1,700 @@
+clustered_metrics:
+  - category: "Economic & Investment"
+    metrics:
+      - name: "Annual growth rate of GDP"
+        synonyms:
+          - "Annual percentage growth rate of GDP"
+
+      - name: "Annual growth rate of fixed asset investment"
+        synonyms:
+          - "Annual growth rate of fixed asset investment"
+
+      - name: "GDP"
+        synonyms:
+          - "Gross domestic product"
+
+      - name: "GDP per capita"
+        synonyms:
+          - "GDP"
+          - "Gross domestic product per capita"
+          - "Urban per capita GDP"
+          - "Per capita GDP"
+          - "Per capita gross regional product"
+          - "Urban disposable income per capita"
+
+      - name: "Fixed asset investment"
+        synonyms:
+          - "Fixed asset investment"
+          - "Fixed assets investment"
+          - "Fixed assets investment as a percentage of GDP"
+          - "Investment in fixed assets as a percentage of GDP"
+          - "Fixed asset investment per capita"
+          - "Fixed assets investment per capita"
+          - "Per capita fixed asset investment"
+          - "Per capita fixed-asset investment"
+          - "Per capita investment in fixed assets"
+          - "Increment in the ratio of investment in fixed assets and GDP"
+          - "Ratio of investment in fixed assets and GDP"
+
+      - name: "Foreign direct investment contract projects"
+        synonyms:
+          - "FDI contract projects"
+          - "Foreign direct investment contractual agreements"
+
+      - name: "Actual amount of foreign capital used"
+        synonyms:
+          - "Actual amount of foreign capital used in the current year"
+          - "Actual amount of foreign investment used in the year"
+          - "Actual amount of foreign investment utilized"
+          - "Actual utilization of foreign direct investment amount"
+          - "Amount of foreign capital utilized"
+          - "Amount of foreign capital utilized in the current year"
+
+      - name: "Foreign capital dependence"
+        synonyms:
+          - "Foreign capital dependence"
+          - "Ratio of the actual use of foreign capital to GDP"
+
+      - name: "Dependence on foreign trade"
+        synonyms:
+          - "Dependence on foreign trade"
+          - "Foreign trade dependence"
+          - "Dependence on foreign trade (Total imports and exports/GDP)"
+
+      - name: "Proportion of total import and export"
+        synonyms:
+          - "Share of total imports and exports"
+          - "Import-export ratio"
+          - "Total export–import volume"
+          - "Total export-import per capita"
+          - "Total import and export volume"
+          - "Total import and export trade as a percentage of GDP"
+
+      - name: "Ratio of local fiscal revenue to GDP"
+        synonyms:
+          - "Share of local fiscal revenue in GDP"
+
+      - name: "Ratio of gross domestic fixed investment to GDP"
+        synonyms:
+          - "Share of fixed capital formation in GDP"
+          - "Gross domestic investment ratio"
+
+      - name: "Per capita imports and exports"
+        synonyms:
+          - "Imports and exports per capita"
+          - "Per capita trade volume"
+          - "Total export-import per capita"
+
+  - category: "Finance & Revenue"
+    metrics:
+      - name: "Financial revenue"
+        synonyms:
+          - "Financial revenue"
+          - "Fiscal revenue per capita"
+          - "General public budget revenue"
+          - "Per capita fiscal budget income"
+          - "Per capita fiscal revenue"
+          - "Per capita general public budget revenue"
+
+      - name: "Local public finance expenditure"
+        synonyms:
+          - "Local fiscal expenditure"
+          - "Local public spending"
+
+      - name: "Public budget expenditure"
+        synonyms:
+          - "Government budget spending"
+          - "Fiscal budget outlay"
+
+      - name: "Per public finance income"
+        synonyms:
+          - "Per public finance income"
+
+      - name: "Deposit balance of financial institutions"
+        synonyms:
+          - "Deposit balance of financial institutions"
+
+      - name: "Financial interrelations ratio"
+        synonyms:
+          - "Financial correlation ratio"
+          - "Degree of financial correlation"
+
+      - name: "Financial self-reliance rate"
+        synonyms:
+          - "Financial self-sufficiency ratio"
+          - "Fiscal self-reliance index"
+
+      - name: "Fiscal deficit rate"
+        synonyms:
+          - "Budget deficit ratio"
+          - "Ratio of fiscal deficit to GDP"
+
+      - name: "Fiscal deficit ratio"
+        synonyms:
+          - "Fiscal deficit ratio"
+          - "Budget deficit rate"
+
+      - name: "Fiscal self-sufficiency rate"
+        synonyms:
+          - "Fiscal self-reliance ratio"
+          - "Fiscal self-sufficiency rate"
+
+      - name: "Ratio of public finance income and expenditure"
+        synonyms:
+          - "Balance ratio of public finance"
+          - "Public finance input-output ratio"
+
+      - name: "Proportion of fiscal revenue in GDP"
+        synonyms:
+          - "Ratio of fiscal revenue to GDP"
+          - "Percentage of fiscal revenue in GDP"
+
+      - name: "Loan-to-deposit ratio"
+        synonyms:
+          - "LTD ratio"
+          - "Credit-to-deposit ratio"
+
+      - name: "Ratio of deposits and loans to financial institutions"
+        synonyms:
+          - "Financial institutions’ deposit-loan ratio"
+
+      - name: "Per capita deposits in savings"
+        synonyms:
+          - "Per capita year-end savings deposits"
+          - "Year-end per capita deposit"
+          - "Balance of savings deposits per capita"  # ggf. doppelt, wenn du es vereinigen willst
+          - "Per capita deposits in savings at end of year"
+          - "Residents’ savings deposit balance"
+          - "Per capita savings balance"
+          - "Savings balance per capita"
+          - "Savings deposit balance per capita"
+          - "Per capita year-end balance of urban and rural resident savings"
+
+      - name: "Per household savings deposits"
+        synonyms:
+          - "Year-end household deposit"
+          - "Savings deposit per household"
+          - "Household saving deposits at year-end"  # vereint
+          - "Per household savings deposits at year-end"
+
+      - name: "Per capita local fiscal expenditure"
+        synonyms:
+          - "Local fiscal spending per capita"
+
+      - name: "Per capita regional financial spending"
+        synonyms:
+          - "Regional fiscal expenditure per capita"
+          - "Per capita regional public spending"
+
+  - category: "Population & Employment"
+    metrics:
+      - name: "Household registration population at the end of the year"
+        synonyms:
+          - "Hukou-registered population by year-end"
+          - "Registered residents at year-end"
+
+      - name: "Total population"
+        synonyms:
+          - "Overall population"
+          - "Population total"
+
+      - name: "Registered unemployment rate"
+        synonyms:
+          - "Registered unemployment rate"
+          - "Registered urban unemployment rate"
+          - "Share of unemployed population in urban areas"
+
+      - name: "Unemployment rate"
+        synonyms:
+          - "Unemployment rate"
+          # Optional: Zusammenführung mit Registered unemployment rate
+
+      - name: "Number of employees in urban units at the end of the period"
+        synonyms:
+          - "Urban work-unit employment"
+          - "Employment in urban entities"
+
+      - name: "Number of employees in the tertiary industry"
+        synonyms:
+          - "Tertiary sector employment"
+          - "Service sector employment"
+
+      - name: "Number of people with health insurance per 10,000 people"
+        synonyms:
+          - "Health insurance coverage per 10,000 population"
+
+      - name: "Proportion of private and individual employment in urban areas"
+        synonyms:
+          - "Share of private and individual businesses in urban employment"
+
+      - name: "Proportion of employees of state-owned and collective-owned units"
+        synonyms:
+          - "Share of employees in SOEs and collectively owned enterprises"
+
+      - name: "Average wage"
+        synonyms:
+          - "Average wage of employees"
+          - "Average wage of on-the-job workers"
+
+      - name: "Natural growth rate"
+        synonyms:
+          - "Natural growth rate"
+
+  - category: "Urban & Infrastructure"
+    metrics:
+      - name: "Urbanization rate"
+        synonyms:
+          - "Rate of urbanization"
+          - "Urban population ratio"
+
+      - name: "Urban construction land"
+        synonyms:
+          - "Urban built-up land"
+          - "Urban construction area"
+
+      - name: "Investment in urban public facilities construction"
+        synonyms:
+          - "Urban public infrastructure investment"
+          - "Municipal public facilities investment"
+
+      - name: "Mobile phone year-end users"
+        synonyms:
+          - "Mobile phone subscribers at year-end"
+          - "Number of mobile phone users by year-end"
+
+      - name: "Mobile phones per 100 population"
+        synonyms:
+          - "Mobile phones per 100 population"
+
+      - name: "Number of banking institutions per 10,000 persons"
+        synonyms:
+          - "Bank branches per 10,000 population"
+          - "Banking institutions density"
+
+      - name: "Number of colleges and universities"
+        synonyms:
+          - "Higher education institutions"
+          - "Tertiary education institutions"
+
+      - name: "Number of doctors"
+        synonyms:
+          - "Number of medical doctors"
+          - "Physicians count"
+
+      - name: "Postal business revenue"
+        synonyms:
+          - "Revenue from postal services"
+          - "Postal service income"
+
+      - name: "Harmless disposal rate of household garbage"
+        synonyms:
+          - "Safe disposal rate of domestic waste"
+          - "Non-hazardous treatment rate for household garbage"
+
+      - name: "Harmless treatment rate of domestic garbage"
+        synonyms:
+          - "Non-hazardous disposal rate of household waste"
+          - "Safe treatment rate of domestic waste"
+
+      - name: "Rate of non-hazardous treatment of living waste"
+        synonyms:
+          - "Non-hazardous disposal rate of domestic waste"
+          - "Safe treatment rate for municipal waste"
+
+  - category: "Environment & Resources"
+    metrics:
+      - name: "Degree of resource depletion"
+        synonyms:
+          - "Resource depletion rate"
+          - "Resource depletion index"
+
+      - name: "Administrative area land area"
+        synonyms:
+          - "Administrative area land area"
+
+      - name: "Development intensity of construction land per 10,000 GDP"
+        synonyms:
+          - "Development intensity of construction land per 10,000 GDP"
+
+      - name: "Industrial SO2 emissions per 10,000 GDP"
+        synonyms:
+          - "Industrial sulfur dioxide emissions per 10,000 GDP"
+
+      - name: "Industrial dust emissions per 10,000 GDP"
+        synonyms:
+          - "Industrial particulate emissions per 10,000 GDP"
+          - "Industrial dust release per 10,000 GDP"
+
+      - name: "Industrial wastewater discharge per 10,000 GDP"
+        synonyms:
+          - "Industrial wastewater emissions per 10,000 GDP"
+
+      - name: "Overall energy consumption per 10,000 GDP"
+        synonyms:
+          - "Energy intensity per 10,000 GDP"
+          - "Comprehensive energy consumption per 10,000 GDP"
+
+      - name: "Green area per capita"
+        synonyms:
+          - "Per capita green space"
+          - "Per capita park area"
+
+      - name: "Green coverage rate in built-up areas"
+        synonyms:
+          - "Urban green coverage rate"
+          - "Green coverage percentage in urban areas"
+
+      - name: "Rate for consolidated utilization of industrial solid waste"
+        synonyms:
+          - "Industrial solid waste comprehensive utilization rate"
+          - "Solid waste recycling rate"
+          - "General industrial solid waste comprehensive utilization rate"
+
+      - name: "Sewage treatment plant centralized treatment rate"
+        synonyms:
+          - "Centralized sewage treatment rate"
+          - "Sewage plant coverage rate"
+
+      - name: "Rate of reuse of industrial wastewater"
+        synonyms:
+          - "Industrial wastewater recycling rate"
+
+      - name: "Highway freight volume"
+        synonyms:
+          - "Road freight volume"
+          - "Highway cargo volume"
+
+      - name: "Highway passenger volume"
+        synonyms:
+          - "Road passenger volume"
+          - "Highway passenger traffic"
+
+  - category: "Technology & Innovation"
+    metrics:
+      - name: "Innovation index"
+        synonyms:
+          - "Innovation capability index"
+          - "Innovation performance index"
+
+      - name: "Digital industrialization (Internet industry employment index)"
+        synonyms:
+          - "Digital industry development index"
+          - "Internet-related industrial employment index"
+
+      - name: "Internet penetration"
+        synonyms:
+          - "Internet penetration"
+          - "Mobile Internet penetration"
+
+      - name: "Internet broadband access users"
+        synonyms:
+          - "Number of broadband Internet subscribers"
+          - "Broadband Internet users"
+
+      - name: "Judicial protection of intellectual property rights"
+        synonyms:
+          - "Judicial IP protection"
+          - "Legal protection of intellectual property"
+
+      - name: "Number of patents"
+        synonyms:
+          - "Number of patents granted"
+          - "Number of patents granted per 10,000 persons"
+          - "Number of patents per 10,000 people"
+
+      - name: "Number of scientific research and technical service employees"
+        synonyms:
+          - "R&D and technical service staff"
+          - "Sci-tech service personnel"
+
+      - name: "Scientific research industry employment index"
+        synonyms:
+          - "Science and research employment index"
+
+      - name: "Regional innovation and entrepreneurship index"
+        synonyms:
+          - "Regional innovation-entrepreneurship index"
+
+      - name: "Proportion of R&D investment in GDP"
+        synonyms:
+          - "Proportion of R&D investment in GDP"
+          - "Ratio of R&D expenditure to GDP"
+          - "Ratio of intramural expenditure on R&D and GDP"
+
+      - name: "Economic innovation ability"
+        synonyms:
+          - "Innovation capacity"
+          - "Innovation capability"
+          - "Economic innovation capacity"
+
+      - name: "International Internet households per 100 population"
+        synonyms:
+          - "International Internet subscriptions per 100 persons"
+
+      - name: "Number of effective invention patents per 10,000 people"
+        synonyms:
+          - "Valid invention patents per 10,000 persons"
+          - "Effective invention patents per 10,000 population"
+
+      - name: "Software business revenue"
+        synonyms:
+          - "Software industry revenue"
+          - "Software sector revenue"
+
+      - name: "Ratio of expenditure for research and experimental development to fiscal expenditure"
+        synonyms:
+          - "R&D spending ratio in fiscal expenditure"
+          - "Share of R&D in government budget"
+
+  - category: "Social & Living Standards"
+    metrics:
+      - name: "Social insurance coverage rate"
+        synonyms:
+          - "Share of population with social insurance"
+          - "Proportion of social insurance coverage"
+
+      - name: "Proportion of the population with a minimum living allowance"
+        synonyms:
+          - "Share of population receiving minimum living security"
+
+      - name: "Urban per capita disposable income of residents"
+        synonyms:
+          - "Disposal income of urban residents"
+          - "Urban disposable income per capita"
+          - "Per capita disposable income"
+          - "Per capita disposable income of urban residents"
+          - "Urban per capita disposable income of residents"
+
+      - name: "Prices stability"
+        synonyms:
+          - "Price stability"
+
+      - name: "Proportion of persons employed in resource industries"
+        synonyms:
+          - "Share of workforce in resource-based industries"
+
+      - name: "Proportion of persons employed in scientific research and technical services"
+        synonyms:
+          - "Share of employment in R&D and tech services"
+
+      - name: "Proportion of science and technology expenditure in fiscal expenditure"
+        synonyms:
+          - "Science and technology expenditure ratio"
+          - "Share of S&T spending in government budget"
+
+      - name: "Expenditure on science and technology"
+        synonyms:
+          - "Expenditure on science and technology"
+          - "Science and technology expenditure"
+          - "Scientific expenditure as a percentage of fiscal expenditure"
+
+      - name: "Education expenditure"
+        synonyms:
+          - "Education expenditure"
+          - "Expenditure on education"
+          - "Fiscal expenditure on education"
+          - "Proportion of expenditure for education, science, and technology"
+          - "Proportion of science and education expenditures to fiscal expenses"
+          - "Proportion of science and education in fiscal expenditure"
+
+      - name: "Per capita fiscal expenditure on education"
+        synonyms:
+          - "Per capita public spending on education"
+          - "Per capita education budget"
+
+      - name: "Per capita fiscal expenditure on science"
+        synonyms:
+          - "Per capita science budget"
+          - "Per capita spending on science"
+
+      - name: "Proportion of financial expenditure on science and technology"
+        synonyms:
+          - "Share of science and technology in fiscal spending"
+          - "R&D share in government expenditure"
+
+  - category: "Retail & Consumption"
+    metrics:
+      - name: "Per capita retail sales of consumer goods"
+        synonyms:
+          - "Retail sales of consumer goods per capita"
+          - "Per capita retail sales amount of consumer goods"
+          - "Per capita retail sales of social consumer goods"
+          - "Per capita retail sales of social consumption"
+          - "Per capita sales of retail social consumer goods"
+          - "Per capita total retail sales of consumer goods"
+
+      - name: "Retail sales of consumer goods per capita"
+        synonyms:
+          - "Retail sales of consumer goods per capita"
+          # Diese könntest du mit oben zusammenführen, falls 1:1 gemeint
+
+      - name: "Total retail sales of social consumer goods"
+        synonyms:
+          - "Total retail sales of consumer goods"
+          - "Total retail consumption"
+
+      - name: "Total retail sales of social consumer goods as a percentage of GDP"
+        synonyms:
+          - "Share of consumer goods retail in GDP"
+          - "Retail consumption ratio"
+
+      - name: "Gross tourism receipts"
+        synonyms:
+          - "Total tourism revenue"
+          - "Tourism earnings"
+
+  - category: "Industrial & Structural"
+    metrics:
+      - name: "Advanced industrial structure"
+        synonyms:
+          - "Advanced industrial structure index"
+          - "Advanced level of industrial structure"
+          - "Industrial structure upgrading"
+          - "Industrial structure diversification index"
+          - "Industrial structure concentration"
+
+      - name: "Industrial enterprises above the designated size"
+        synonyms:
+          - "Industrial enterprises above designated scale"
+          - "Enterprises above scale in industry"
+
+      - name: "Number of industrial enterprises above the scale"
+        synonyms:
+          - "Industrial enterprises above designated size"
+          - "Large-scale industrial enterprises"
+          - "Industrial enterprises above designated scale"
+          - "Enterprises above scale in industry"
+
+      - name: "Proportion of the secondary industry added value in GDP"
+        synonyms:
+          - "Added value of the secondary industry as a proportion of GDP"
+          - "Proportion of the secondary industry added value in GDP"
+
+      - name: "Ratio of the added value of high-tech industries to industrial added value"
+        synonyms:
+          - "Share of high-tech industries in industrial value added"
+          - "High-tech industry’s proportion of industrial value"
+
+      - name: "Ratio of the output value of secondary and tertiary industries"
+        synonyms:
+          - "Proportion of secondary vs. tertiary output"
+          - "Balance between secondary and tertiary industries"
+
+      - name: "Annual output value of tertiary industry"
+        synonyms:
+          - "Annual output value of tertiary industry"
+
+      - name: "Proportion of GDP in the second and third industries"
+        synonyms:
+          - "Share of secondary and tertiary industries in GDP"
+
+      - name: "Proportion of GDP increased by the tertiary industry"
+        synonyms:
+          - "Contribution of the tertiary industry to GDP growth"
+
+      - name: "Proportion of the tertiary industry added value in GDP"
+        synonyms:
+          - "Proportion of tertiary industries in GDP"
+          - "Proportion of tertiary industry"
+          - "Proportion of tertiary industry in GDP"
+          - "Ratio of the added value of the tertiary industry to GDP"
+          - "The tertiary industry’s share of GDP"
+          - "Tertiary industry as a percentage of GDP"
+          - "Tertiary sector as a percentage of GDP"
+          - "Tertiary sector’s share in GDP"
+          - "Proportion of service industry value added in GDP"
+          - "Tertiary industry proportion in GDP"
+          - "Service industry share in GDP"
+          - "The third industry accounts for the proportion of GDP"
+          - "Added value of the tertiary industry as a proportion of GDP"
+          - "Ratio of tertiary value added to GDP"
+
+      - name: "Number of enterprises above designated size"
+        synonyms:
+          - "Enterprises above the designated threshold"
+          - "Firms above the designated scale"
+
+      - name: "Ratio of large and medium-sized enterprises to small enterprises"
+        synonyms:
+          - "Proportion of large and medium enterprises among all enterprises"
+
+      - name: "Ratio of liabilities and assets of enterprises above a designated level"
+        synonyms:
+          - "Liability-asset ratio for enterprises above designated size"
+
+  - category: "Miscellaneous & Others"
+    metrics:
+      - name: "Population density"
+        synonyms:
+          - "People per square kilometer"
+          - "Inhabitants per unit area"
+
+      - name: "Number of projects for contracted foreign investment"
+        synonyms:
+          - "Contracted foreign investment project count"
+          - "Contractual FDI project number"
+
+      - name: "Number of students enrolled in regular colleges per 10,000 persons"
+        synonyms:
+          - "College enrollment per 10,000 population"
+
+      - name: "Number of students in higher education per 10,000 people"
+        synonyms:
+          - "Higher education enrollment per 10,000 persons"
+
+      - name: "Overall energy consumption per 10,000 GDP"
+        # Achtung, taucht auch in Environment & Resources auf. Wenn du es wirklich trennen willst, anpassen!
+        synonyms:
+          - "Energy intensity per 10,000 GDP"
+          - "Comprehensive energy consumption per 10,000 GDP"
+
+      - name: "Proportion of persons employed in resource industries"
+        synonyms:
+          - "Share of workforce in resource-based industries"
+
+      - name: "Primary industry as a percentage of GDP"
+        synonyms:
+          - "Agriculture share of GDP"
+          - "Proportion of agriculture in GDP"
+
+      - name: "Primary sector as a proportion of GDP"
+        synonyms:
+          - "Primary sector share in GDP"
+          - "Proportion of primary industry in GDP"
+
+      - name: "Ratio of direct economic losses due to disasters to regional GDP"
+        synonyms:
+          - "Disaster economic loss to GDP ratio"
+
+      - name: "Labor productivity (GDP/Number of employees in urban units)"
+        synonyms:
+          - "Labor efficiency"
+          - "Per capita output in urban units"
+
+      - name: "Prices stability"
+        synonyms:
+          - "Price stability"
+
+      - name: "Support policies"
+        synonyms:
+          - "Supportive policies"
+          - "Government support measures"
+
+      - name: "Regional innovation and entrepreneurship index"
+        synonyms:
+          - "Regional innovation-entrepreneurship index"
+
+      - name: "Total employment"
+        synonyms:
+          - "Overall employment"
+          - "Number of employed persons"
+
+      - name: "Total number of Chinese and English papers"
+        synonyms:
+          - "Total publications in Chinese and English"
+          - "Total academic papers in Chinese and English"
+
+      - name: "Three major patent licenses"
+        synonyms:
+          - "Three main patent licensing categories"
+          - "Major patent authorizations"

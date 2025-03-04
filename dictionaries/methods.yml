@@ -1,0 +1,205 @@
+clustered_methods:
+  - category: "Theory-based Methods"
+    methods:
+      - name: "Adaptive cycle theory"
+        synonyms:
+          - "Adaptive cycle theory"
+      - name: "Urban resilience evaluation model"
+        synonyms:
+          - "Urban resilience evaluation model"
+      - name: "Evaluation functions for persistence, adaptability, and transformation"
+        synonyms:
+          - "Evaluation functions for persistence, adaptability, and transformation"
+      - name: "Driving-Pressure-State-Response (DPSR) model"
+        synonyms:
+          - "DPSR model"
+
+  - category: "Visualization Tools"
+    methods:
+      - name: "ArcGIS for resilience visualization"
+        synonyms:
+          - "ArcGIS for resilience visualization"
+
+  - category: "Statistical Tests"
+    methods:
+      - name: "Bartlett's test of sphericity"
+        synonyms:
+          - "Bartlett's test of sphericity"
+      - name: "Kaiser-Meyer-Olkin (KMO) test"
+        synonyms:
+          - "Kaiser-Meyer-Olkin test"
+          - "KMO test"
+      - name: "Principal Component Analysis (PCA)"
+        synonyms:
+          - "PCA"
+          - "Principal Component Analysis"
+
+  - category: "Weighting Models"
+    methods:
+      - name: "CRITIC and EWM combined weighting model"
+        synonyms:
+          - "CRITIC and EWM combined weighting model"
+      - name: "CRITIC–TOPSIS weighted evaluation model"
+        synonyms:
+          - "CRITIC–TOPSIS weighted evaluation model"
+      - name: "Combined weight method"
+        synonyms:
+          - "Combination weight method"
+          - "Combined weight model"
+      - name: "Entropy weight method"
+        synonyms:
+          - "Entropy method"
+          - "Entropy weight method"                
+          - "Entropy method for three-level indicator weighting"
+          - "Entropy method for urban resilience index calculation"
+          - "Entropy value method"
+          - "Entropy weight method (EWM)"
+          - "Entropy weight method (Shannon, 1948)"
+          - "Entropy weight method with time series weights"
+          - "Entropy weight-TOPSIS method"
+          - "Extreme value entropy method"
+          - "Global entropy weighting method"
+      - name: "Coefficient of variation method (CV)"
+        synonyms:
+          - "Coefficient of variation method"
+          - "CV method"
+      - name: "Subjective and objective weighting method"
+        synonyms:
+          - "Subjective and objective weighting method"
+      - name: "Maximizing deviation method"
+        synonyms:
+          - "Maximizing deviation method"
+      - name: "Multi-index weighted summation method"
+        synonyms:
+          - "Multi-index weighted summation method"
+
+  - category: "Network and Optimization Models"
+    methods:
+      - name: "Complex network approach"
+        synonyms:
+          - "Complex network approach"
+      - name: "Particle swarm optimization (PSO)-back propagation (BP) neural network"
+        synonyms:
+          - "PSO-BP neural network"
+          - "Particle swarm optimization-back propagation neural network"
+
+  - category: "Coupling Coordination Models"
+    methods:
+      - name: "Coupling coordination model"
+        synonyms:
+          - "Coupling coordination degree (CCD) model"
+          - "Coupling coordination degree model"
+          - "Coupling coordination degree (CCD) analysis"
+          - "Coupling coordination degree analysis"
+          - "Modified coupled coordination model"
+          - "Revised coupling coordination method"
+
+  - category: "Inequality and Efficiency Measures"
+    methods:
+      - name: "Dagum's Gini coefficient"
+        synonyms:
+          - "Dagum's Gini coefficient"
+      - name: "Theil index"
+        synonyms:
+          - "Theil index"
+      - name: "Meta-frontier global super-efficiency SBM model with undesired outputs"
+        synonyms:
+          - "Meta-frontier global super-efficiency SBM model with undesired outputs"
+
+  - category: "Spatial Analysis Tools"
+    methods:
+      - name: "Exploratory Spatial Data Analysis (ESDA)"
+        synonyms:
+          - "Exploratory Spatial Data Analysis"
+          - "ESDA"
+      - name: "Spatial econometrics"
+        synonyms:
+          - "Spatial econometrics"
+      - name: "Spatial measurement model"
+        synonyms:
+          - "Spatial measurement model"
+      - name: "Spatial regression models (SLM and SEM)"
+        synonyms:
+          - "Spatial lag model (SLM)"
+          - "Spatial error model (SEM)"
+          - "Spatial regression models"
+      - name: "Geographical detector model"
+        synonyms:
+          - "Geographical detector model"
+      - name: "Moran's I spatial correlation analysis"
+        synonyms:
+          - "Moran's I spatial correlation analysis"
+          - "Moran's I"
+
+  - category: "Density Estimation"
+    methods:
+      - name: "Kernel density estimation"
+        synonyms:
+          - "Kernel Density Estimation (KDE)"
+          - "Kernel density estimation method"
+          - "Kernel density estimation"
+
+  - category: "Regression and Mediation Models"
+    methods:
+      - name: "Two-way fixed effect model"
+        synonyms:
+          - "Two-way fixed effect model"
+      - name: "Time-varying Difference-in-Differences (DID) model"
+        synonyms:
+          - "Time-varying DID model"
+          - "Difference-in-Differences (DID) model with time variation"
+      - name: "Mediating effect model"
+        synonyms:
+          - "Mediating effect model"
+      - name: "Moderated mediation model"
+        synonyms:
+          - "Moderated mediation model"
+      - name: "Geographically weighted regression (GWR)"
+        synonyms:
+          - "Geographically weighted regression"
+          - "GWR"
+      - name: "Instrumental variable estimation methods"
+        synonyms:
+          - "Instrumental variable estimation methods"
+
+  - category: "Index-based Methods"
+    methods:
+      - name: "Urban resilience capacity index"
+        synonyms:
+          - "Urban resilience capacity index"
+      - name: "Multilevel urban resilience evaluation index system"
+        synonyms:
+          - "Multilevel urban resilience evaluation index system"
+      - name: "Obstacle degree analysis"
+        synonyms:
+          - "Obstacle degree analysis"
+      - name: "Obstacle degree model"
+        synonyms:
+          - "Obstacle degree model"
+
+  - category: "Distance and Similarity Measures"
+    methods:
+      - name: "TOPSIS method"
+        synonyms:
+          - "Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)"
+      - name: "Grey correlation analysis"
+        synonyms:
+          - "Grey correlation analysis"
+
+  - category: "Fuzzy-based Methods"
+    methods:
+      - name: "Fuzzy logic reasoning method"
+        synonyms:
+          - "Fuzzy logic reasoning method"
+      - name: "Intuitionistic fuzzy set theory"
+        synonyms:
+          - "Intuitionistic fuzzy set theory"
+      - name: "Intuitionistic trapezoidal fuzzy number"
+        synonyms:
+          - "Intuitionistic trapezoidal fuzzy number"
+
+  - category: "Miscellaneous"
+    methods:
+      - name: "Social opportunity function"
+        synonyms:
+          - "Social opportunity function"

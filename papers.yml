@@ -1,0 +1,834 @@
+papers:
+  - id: 1
+    title: "Evaluation of urban resilience level and analysis of obstacle factors: A case study of Hunan Province, China"
+    authors: 
+      - "Na Chen"
+      - "Hongxia Guo"
+      - "Hui Xiang"
+    year: 2023
+    journal: "Frontiers in Earth Science"
+    doi: "10.3389/feart.2022.1033441"
+    methods:
+      - "Entropy weight method (Shannon, 1948)"
+      - "Urban resilience evaluation model"
+      - "Obstacle degree model"
+    metrics:
+      - "Per capita disposable income of urban residents"
+      - "Registered urban unemployment rate"
+      - "Ratio of local fiscal revenue to GDP"
+      - "Ratio of the added value of the tertiary industry to GDP"
+      - "Ratio of the added value of high-tech industries to industrial added value"
+      - "Ratio of expenditure for research and experimental development to fiscal expenditure"
+      - "Number of effective invention patents per 10,000 people"
+    geographical_focus: "Hunan Province, China"
+    temporal_scope: 
+      - 2010
+      - 2015
+      - 2020
+  - id: 2
+    title: "Spatio-temporal patterns of Chinese urban recovery and system resilience under the pandemic new normal"
+    authors: 
+      - "Haiyue Fu"
+      - "Nana Hong"
+      - "Chuan Liao"
+    year: 2023
+    journal: "Cities"
+    doi: "10.1016/j.cities.2023.104385"
+    methods:
+      - "Urban resilience capacity index"
+      - "Geographical detector model"
+      - "Geographically weighted regression (GWR)"
+    metrics:
+      - "Per capita GDP"
+      - "General public budget revenue"
+      - "Added value of the tertiary industry as a proportion of GDP"
+      - "Added value of the secondary industry as a proportion of GDP"
+      - "Total retail sales of consumer goods"
+      - "Proportion of science and technology expenditure in fiscal expenditure"
+      - "Actual amount of foreign capital used in the current year"
+    geographical_focus: "293 cities across mainland China, including 4 municipalities, 15 sub-provincial cities, and 274 prefecture-level cities"
+    temporal_scope: 
+      - 2020
+  - id: 3
+    title: "A framework for urban resilience measurement and enhancement strategies: A case study in Qingdao, China"
+    authors: 
+      - "Yuanyuan Ge"
+      - "Wenjuan Jia"
+      - "Hui Zhao"
+      - "Pengcheng Xiang"
+    year: 2024
+    journal: "Journal of Environmental Management"
+    doi: "10.1016/j.jenvman.2024.122047"
+    methods:
+      - "CRITIC and EWM combined weighting model"
+      - "Multilevel urban resilience evaluation index system"
+      - "Coupling coordination degree (CCD) analysis"
+    metrics:
+      - "Proportion of GDP in the second and third industries"
+      - "Per capita fiscal budget income"
+      - "GDP per capita"
+      - "Actual amount of foreign investment utilized"
+      - "Urban disposable income per capita"
+      - "Gross tourism receipts"
+      - "Proportion of science and education in fiscal expenditure"
+      - "Savings balance per capita"
+    geographical_focus: "Qingdao, China"
+    temporal_scope: 
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+      - 2021
+  - id: 4
+    title: "The coupling and coordination degree of urban resilience system: A case study of the Chengdu–Chongqing urban agglomeration"
+    authors: 
+      - "Shan Han"
+      - "Bo Wang"
+      - "Yibin Ao"
+      - "Homa Bahmani"
+      - "Beibei Chai"
+    year: 2023
+    journal: "Environmental Impact Assessment Review"
+    doi: "10.1016/j.eiar.2023.107145"
+    methods:
+      - "CRITIC–TOPSIS weighted evaluation model"
+      - "Revised coupling coordination method"
+    metrics:
+      - "Per capita GDP"
+      - "Proportion of tertiary industry in GDP"
+      - "Per capita investment in fixed assets"
+      - "Dependence on foreign trade"
+      - "Proportion of fiscal revenue in GDP"
+      - "Per capita disposable income of urban residents"
+      - "Per capita retail sales of social consumer goods"
+    geographical_focus: "Chengdu–Chongqing urban agglomeration"
+    temporal_scope: 
+      - 2005
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+  - id: 5
+    title: "Mechanism and Impact of Digital Economy on Urban Economic Resilience under the Carbon Emission Scenarios: Evidence from China’s Urban Development"
+    authors: 
+      - "Songtao He"
+      - "Shuigen Yang"
+      - "Amar Razzaq"
+      - "Sahar Erfanian"
+      - "Azhar Abbas"
+    year: 2023
+    journal: "International Journal of Environmental Research and Public Health"
+    doi: "10.3390/ijerph20054454"
+    methods:
+      - "Two-way fixed effect model"
+      - "Moderated mediation model"
+    metrics:
+      - "Dependence on foreign trade (Total imports and exports/GDP)"
+      - "Per capita disposable income"
+      - "Labor productivity (GDP/Number of employees in urban units)"
+      - "GDP per capita"
+      - "Share of unemployed population in urban areas"
+      - "Retail sales of consumer goods per capita"
+      - "Fiscal self-sufficiency rate"
+      - "Per capita local fiscal expenditure"
+      - "Fixed asset investment per capita"
+      - "Per capita fiscal expenditure on education"
+      - "Regional innovation and entrepreneurship index"
+      - "Advanced industrial structure index"
+      - "Per capita fiscal expenditure on science"
+      - "Scientific research industry employment index"
+      - "Internet penetration"
+      - "Mobile Internet penetration"
+      - "Digital industrialization (Internet industry employment index)"
+      - "Postal business revenue"
+      - "Software business revenue"
+    geographical_focus: "258 prefecture-level cities in China"
+    temporal_scope: 
+      - 2004
+      - 2005
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+  - id: 6
+    title: "Conflict or synergy? Analysis of economic-social-infrastructure-ecological resilience and their coupling coordination in the Yangtze River Economic Belt, China"
+    authors: 
+      - "Yingzi Lin"
+      - "Chong Peng"
+      - "Peng Chen"
+      - "Mengjie Zhang"
+    year: 2022
+    journal: "Ecological Indicators"
+    doi: "10.1016/j.ecolind.2022.109194"
+    methods:
+      - "Entropy weight-TOPSIS method"
+      - "Coupling coordination degree (CCD) model"
+    metrics:
+      - "GDP"
+      - "Per capita GDP"
+      - "Proportion of fiscal revenue in GDP"
+      - "Proportion of the secondary industry added value in GDP"
+      - "Proportion of the tertiary industry added value in GDP"
+      - "Foreign trade dependence"
+      - "Number of patents granted"
+      - "Unemployment rate"
+      - "Disposal income of urban residents"
+    geographical_focus: "126 cities in the Yangtze River Economic Belt (YREB), China"
+    temporal_scope: 
+      - 2008
+      - 2012
+      - 2017
+  - id: 7
+    title: "Evaluating urban agglomeration resilience to disaster in the Yangtze Delta city group in China"
+    authors: 
+      - "Hao Lu"
+      - "Xin Lu"
+      - "Liudan Jiao"
+      - "Yu Zhang"
+    year: 2022
+    journal: "Sustainable Cities and Society"
+    doi: "10.1016/j.scs.2021.103464"
+    methods:
+      - "Particle swarm optimization (PSO)-back propagation (BP) neural network"
+      - "Entropy weight method (EWM)"
+      - "Kernel density estimation"
+      - "Moran's I spatial correlation analysis"
+    metrics:
+      - "Urban per capita GDP"
+      - "Urban per capita disposable income of residents"
+      - "Per capita general public budget revenue"
+      - "Per capita total retail sales of consumer goods"
+      - "Total export-import per capita"
+      - "Fixed assets investment as a percentage of GDP"
+      - "Tertiary industry as a percentage of GDP"
+    geographical_focus: "Yangtze Delta city group, China"
+    temporal_scope: 
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+  - id: 8
+    title: "Analysis on the structure and economic resilience capacity of China’s regional economic network"
+    authors: 
+      - "Ruocan Lu"
+      - "Zhihui Yang"
+    year: 2023
+    journal: "Applied Economics"
+    doi: "10.1080/00036846.2023.2208852"
+    methods:
+      - "Entropy method for three-level indicator weighting"
+      - "Complex network approach"
+      - "Spatial econometrics"
+    metrics:
+      - "Total import and export trade as a percentage of GDP"
+      - "Number of employees in urban units at the end of the period"
+      - "Total retail sales of social consumer goods as a percentage of GDP"
+      - "Per capita GDP"
+      - "Investment in fixed assets as a percentage of GDP"
+      - "Harmless disposal rate of household garbage"
+      - "Green area per capita"
+      - "Highway passenger volume"
+      - "Highway freight volume"
+      - "Number of patents per 10,000 people"
+      - "Scientific expenditure as a percentage of fiscal expenditure"
+      - "Number of doctors"
+      - "Number of people with health insurance per 10,000 people"
+    geographical_focus: "Yangtze River Delta, China"
+    temporal_scope: 
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+  - id: 9
+    title: "Spatial–Temporal Evolution of Urban Resilience and Its Influencing Factors: Evidence from the Guanzhong Plain Urban Agglomeration"
+    authors: 
+      - "Fei Ma"
+      - "Zuohang Wang"
+      - "Qipeng Sun"
+      - "Kum Fai Yuen"
+      - "Yanxia Zhang"
+      - "Huifeng Xue"
+      - "Shumei Zhao"
+    year: 2020
+    journal: "Sustainability"
+    doi: "10.3390/su12072593"
+    methods:
+      - "Extreme value entropy method"
+      - "Grey correlation analysis"
+    metrics:
+      - "Per capita GDP"
+      - "Financial revenue"
+      - "Actual amount of foreign investment used in the year"
+      - "Per capita year-end balance of urban and rural resident savings"
+    geographical_focus: "Guanzhong Plain Urban Agglomeration, China"
+    temporal_scope: 
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+  - id: 10
+    title: "Spatiotemporal Evolution and Convergence Analysis of Urban Economic Resilience in China—A Case Study of Jiangsu Province"
+    authors: 
+      - "Xin Ma"
+      - "Fen Jia"
+    year: 2024
+    journal: "Sustainability"
+    doi: "10.3390/su16219440"
+    methods:
+      - "Entropy method"
+      - "Kernel density estimation method"
+      - "Theil index"
+      - "Exploratory Spatial Data Analysis (ESDA)"
+    metrics:
+      - "Primary sector as a proportion of GDP"
+      - "Industrial structure concentration"
+      - "Proportion of persons employed in resource industries"
+      - "Foreign trade dependence"
+      - "Registered unemployment rate"
+      - "Ratio of deposits and loans to financial institutions"
+      - "Overall energy consumption per 10,000 GDP"
+      - "Development intensity of construction land per 10,000 GDP"
+      - "Industrial wastewater discharge per 10,000 GDP"
+      - "Industrial SO2 emissions per 10,000 GDP"
+      - "Industrial dust emissions per 10,000 GDP"
+      - "Per capita GDP"
+      - "Per capita deposits in savings at end of year"
+      - "Urbanization rate"
+      - "Average wage of employees"
+      - "Per capita disposable income"
+      - "Per capita sales of retail social consumer goods"
+      - "Per capita fixed asset investment"
+      - "Per capita imports and exports"
+      - "Social insurance coverage rate"
+      - "Financial self-reliance rate"
+      - "Per capita regional financial spending"
+      - "International Internet households per 100 population"
+      - "Mobile phones per 100 population"
+      - "Tertiary sector as a percentage of GDP"
+      - "Advanced level of industrial structure"
+      - "Rate for consolidated utilization of industrial solid waste"
+      - "Rate of non-hazardous treatment of living waste"
+      - "Rate of reuse of industrial wastewater"
+      - "Proportion of R&D investment in GDP"
+      - "Proportion of science and education expenditures to fiscal expenses"
+      - "Number of patents granted per 10,000 persons"
+      - "Number of students enrolled in regular colleges per 10,000 persons"
+    geographical_focus: "Jiangsu Province, China"
+    temporal_scope: 
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+      - 2021
+  - id: 11
+    title: "Conceptualizing and measuring economic resilience of resource-based cities: Case study of Northeast China"
+    authors: 
+      - "Juntao Tan"
+      - "Pingyu Zhang"
+      - "Kevin Lo"
+      - "Jing Li"
+      - "Shiwei Liu"
+    year: 2017
+    journal: "Chinese Geographical Science"
+    doi: "10.1007/s11769-017-0878-6"
+    methods:
+      - "Principal Component Analysis (PCA)"
+      - "Evaluation functions for persistence, adaptability, and transformation"
+    metrics:
+      - "Ratio of liabilities and assets of enterprises above a designated level"
+      - "Ratio of public finance income and expenditure"
+      - "Degree of resource depletion"
+      - "Proportion of persons employed in resource industries"
+      - "Proportion of tertiary industries in GDP"
+      - "Foreign trade dependence"
+      - "Proportion of employees of state-owned and collective-owned units"
+      - "Ratio of investment in fixed assets and GDP"
+      - "Annual percentage growth rate of GDP"
+      - "Per household savings deposits at year-end"
+      - "Per capita gross regional product"
+      - "Per public finance income"
+      - "Proportion of persons employed in scientific research and technical services"
+      - "Support policies"
+      - "Foreign capital dependence"
+      - "Increment in the ratio of investment in fixed assets and GDP"
+      - "Proportion of expenditure for education, science, and technology"
+      - "Ratio of intramural expenditure on R&D and GDP"
+    geographical_focus: "Nineteen resource-based cities in Northeast China"
+    temporal_scope: 
+      - 2003
+      - 2004
+      - 2005
+      - 2006
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+  - id: 12
+    title: "The research on spatial-temporal evolution and influence factors of urban resilience: A case study in the Guangzhou metropolitan area"
+    authors: 
+      - "Bo Tang"
+      - "Zechuang Tan"
+    year: 2022
+    journal: "Frontiers in Environmental Science"
+    doi: "10.3389/fenvs.2022.1052930"
+    methods:
+      - "Global entropy weighting method"
+      - "Coefficient of variation method (CV)"
+      - "Obstacle degree analysis"
+    metrics:
+      - "GDP per capita"
+      - "Per capita disposable income"
+      - "The tertiary industry’s share of GDP"
+      - "Annual growth rate of fixed asset investment"
+      - "Total import and export volume"
+      - "Public budget expenditure"
+      - "Savings deposit balance per capita"
+    geographical_focus: "Guangzhou metropolitan area, China"
+    temporal_scope: 
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+  - id: 13
+    title: "The influence of industrial structure transformation on urban resilience based on 110 prefecture-level cities in the Yangtze River"
+    authors: 
+      - "Decai Tang"
+      - "Jiannan Li"
+      - "Ziqian Zhao"
+      - "Valentina Boamah"
+      - "David D. Lansana"
+    year: 2023
+    journal: "Sustainable Cities and Society"
+    doi: "10.1016/j.scs.2023.104621"
+    methods:
+      - "Entropy value method"
+      - "ArcGIS for resilience visualization"
+    metrics:
+      - "Per capita GDP"
+      - "Savings balance per capita"
+      - "Number of industrial enterprises above the scale"
+      - "Amount of foreign capital utilized in the current year"
+      - "Per capita retail sales of social consumption"
+    geographical_focus: "110 prefecture-level cities in the Yangtze River Economic Belt (YREB), China"
+    temporal_scope: 
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+  - id: 14
+    title: "Measurement and synergistic evolution analysis of economic resilience and green economic efficiency: Evidence from five major urban agglomerations, China"
+    authors: 
+      - "Jia Wang"
+      - "Xia Zhou"
+    year: 2024
+    journal: "Applied Geography"
+    doi: "10.1016/j.apgeog.2024.103302"
+    methods:
+      - "Driving-Pressure-State-Response (DPSR) model"
+      - "Adaptive cycle theory"
+      - "Combined weight model"
+      - "Meta-frontier global super-efficiency SBM model with undesired outputs"
+      - "Modified coupled coordination model"
+      - "Dagum's Gini coefficient"
+    metrics:
+      - "Urbanization rate"
+      - "Total population"
+      - "Fiscal deficit ratio"
+      - "Loan-to-deposit ratio"
+      - "Foreign trade dependence"
+      - "GDP per capita"
+      - "Industrial structure upgrading"
+      - "Fixed asset investment"
+      - "Total retail sales of social consumer goods"
+      - "Innovation index"
+      - "Judicial protection of intellectual property rights"
+      - "Number of students in higher education per 10,000 people"
+    geographical_focus: 
+      - "Beijing-Tianjin-Hebei region (BTH)"
+      - "Yangtze River Delta region (YRD)"
+      - "Pearl River Delta region (PRD)"
+      - "Chengdu-Chongqing region (CC)"
+      - "Middle reaches of the Yangtze River (MYR)"
+    temporal_scope: 
+      - 2003
+      - 2004
+      - 2005
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+      - 2021
+  - id: 15
+    title: "Impact of high-speed railway on urban resilience in China: Does urban innovation matter?"
+    authors: 
+      - "Ke-Liang Wang"
+      - "Wei Jiang"
+      - "Zhuang Miao"
+    year: 2023
+    journal: "Socio-Economic Planning Sciences"
+    doi: "10.1016/j.seps.2023.101607"
+    methods:
+      - "Entropy method for urban resilience index calculation"
+      - "Time-varying Difference-in-Differences (DID) model"
+      - "Mediating effect model"
+    metrics:
+      - "Per capita GDP"
+      - "Per capita savings balance"
+      - "Per capita fixed-asset investment"
+      - "Ratio of the output value of secondary and tertiary industries"
+    geographical_focus: "277 prefecture-level cities in China"
+    temporal_scope: 
+      - 2003
+      - 2004
+      - 2005
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+  - id: 16
+    title: "The Coupling Coordination Degree of Economic, Social and Ecological Resilience of Urban Agglomerations in China"
+    authors: 
+      - "Xin Xu"
+      - "Meimei Wang"
+      - "Mingfeng Wang"
+      - "Yongchun Yang"
+      - "Yuliang Wang"
+    year: 2022
+    journal: "International Journal of Environmental Research and Public Health"
+    doi: "10.3390/ijerph20010413"
+    methods:
+      - "Fuzzy logic reasoning method"
+      - "Coupling coordination degree model"
+    metrics:
+      - "Per capita GDP"
+      - "Proportion of tertiary industry"
+      - "Expenditure on science and technology"
+      - "Expenditure on education"
+      - "Number of enterprises above designated size"
+      - "Proportion of total import and export"
+      - "Average wage of on-the-job workers"
+      - "Investment in urban public facilities construction"
+      - "Residents’ savings deposit balance"
+    geographical_focus: "197 prefecture-level cities in China’s urban agglomerations"
+    temporal_scope: 
+      - 2019
+  - id: 17
+    title: "Research on the urban resilience evaluation with hybrid multiple attribute TOPSIS method: an example in China"
+    authors: 
+      - "Xiaolin Xun"
+      - "Yongbo Yuan"
+    year: 2020
+    journal: "Natural Hazards"
+    doi: "10.1007/s11069-020-04000-0"
+    methods:
+      - "Intuitionistic fuzzy set theory"
+      - "TOPSIS method"
+      - "Intuitionistic trapezoidal fuzzy number"
+      - "Maximizing deviation method"
+    metrics:
+      - "Gross domestic product per capita"
+      - "Annual output value of tertiary industry"
+      - "Total export–import volume"
+      - "Actual utilization of foreign direct investment amount"
+      - "Deposit balance of financial institutions"
+      - "Prices stability"
+      - "Economic innovation ability"
+    geographical_focus: "Dalian City, China"
+    temporal_scope: 
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+  - id: 18
+    title: "Did Urban Resilience Improve during 2005–2021? Evidence from 31 Chinese Provinces"
+    authors: 
+      - "Tingting Yang"
+      - "Lin Wang"
+    year: 2024
+    journal: "Land"
+    doi: "10.3390/land13030397"
+    methods:
+      - "Entropy method"
+    metrics:
+      - "Per capita disposable income"
+      - "Proportion of the population with a minimum living allowance"
+      - "GDP per capita"
+      - "Fiscal revenue per capita"
+      - "Balance of savings deposits per capita"
+      - "Number of banking institutions per 10,000 persons"
+      - "Ratio of large and medium-sized enterprises to small enterprises"
+      - "Ratio of tertiary value added to GDP"
+      - "Ratio of gross domestic fixed investment to GDP"
+      - "Ratio of the actual use of foreign capital to GDP"
+      - "Ratio of R&D expenditure to GDP"
+      - "Ratio of direct economic losses due to disasters to regional GDP"
+    geographical_focus: "31 Chinese provinces"
+    temporal_scope: 
+      - 2005
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+      - 2021
+  - id: 19
+    title: "Spatiotemporal Variation and Inequality in China’s Economic Resilience across Cities and Urban Agglomerations"
+    authors: 
+      - "Haichao Yu"
+      - "Yan Liu"
+      - "Chengliang Liu"
+      - "Fei Fan"
+    year: 2018
+    journal: "Sustainability"
+    doi: "10.3390/su10124754"
+    methods:
+      - "Subjective and objective weighting method"
+      - "Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)"
+      - "Kernel Density Estimation (KDE)"
+      - "Social opportunity function"
+    metrics:
+      - "Number of employees in the tertiary industry"
+      - "The third industry accounts for the proportion of GDP"
+      - "Total employment"
+      - "Urban construction land"
+      - "Fixed assets investment"
+      - "GDP per capita"
+      - "Local public finance expenditure"
+      - "Foreign direct investment contract projects"
+      - "Actual amount of foreign investment used in the year"
+      - "Education expenditure"
+      - "Number of colleges and universities"
+      - "Internet broadband access users"
+      - "Mobile phone year-end users"
+      - "General industrial solid waste comprehensive utilization rate"
+      - "Sewage treatment plant centralized treatment rate"
+      - "Harmless treatment rate of domestic garbage"
+      - "Green coverage rate in built-up areas"
+      - "Household registration population at the end of the year"
+      - "Natural growth rate"
+      - "Administrative area land area"
+      - "Population density"
+      - "Science and technology expenditure"
+      - "Number of scientific research and technical service employees"
+      - "Total number of Chinese and English papers"
+      - "Three major patent licenses"
+    geographical_focus: "286 major cities in China"
+    temporal_scope: 
+      - 2004
+      - 2005
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+  - id: 20
+    title: "Towering sustainability: Unraveling the complex effects of skyscrapers on urban resilience"
+    authors: 
+      - "Yihua Yu"
+      - "Caili Yang"
+      - "Qingsha Hu"
+      - "Shuning Kong"
+    year: 2024
+    journal: "Environmental Impact Assessment Review"
+    doi: "10.1016/j.eiar.2024.107614"
+    methods:
+      - "Principal Component Analysis (PCA)"
+      - "Bartlett's test of sphericity"
+      - "Kaiser-Meyer-Olkin (KMO) test"
+      - "Instrumental variable estimation methods"
+    metrics:
+      - "Per capita GDP"
+      - "Household saving deposits at year-end"
+      - "Industrial enterprises above the designated size"
+      - "Primary industry as a percentage of GDP"
+      - "Amount of foreign capital utilized"
+      - "Number of projects for contracted foreign investment"
+    geographical_focus: "295 cities in China"
+    temporal_scope: 
+      - 2002
+      - 2003
+      - 2004
+      - 2005
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+  - id: 21
+    title: "Analysis of the Spatial Distribution Characteristics of Urban Resilience and Its Influencing Factors: A Case Study of 56 Cities in China"
+    authors: 
+      - "Maomao Zhang"
+      - "Weigang Chen"
+      - "Kui Cai"
+      - "Xin Gao"
+      - "Xuesong Zhang"
+      - "Jinxiang Liu"
+      - "Zhiyuan Wang"
+      - "Deshou Li"
+    year: 2019
+    journal: "International Journal of Environmental Research and Public Health"
+    doi: "10.3390/ijerph16224442"
+    methods:
+      - "Combination weight method"
+      - "Exploratory Spatial Data Analysis (ESDA)"
+      - "Spatial measurement model"
+      - "Entropy weight method with time series weights"
+      - "Multi-index weighted summation method"
+      - "Spatial regression models (SLM and SEM)"
+    metrics:
+      - "Fiscal deficit rate"
+      - "Proportion of private and individual employment in urban areas"
+      - "Proportion of GDP increased by the tertiary industry"
+      - "Financial interrelations ratio"
+      - "Industrial structure diversification index"
+      - "Proportion of financial expenditure on science and technology"
+      - "Per capita GDP"
+      - "Per capita retail sales amount of consumer goods"
+    geographical_focus: "56 cities in China"
+    temporal_scope: 
+      - 2006
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+  - id: 22
+    title: "A Study on the Coupling Coordination of Urban Resilience and the Tourism Economy in the Beijing–Tianjin–Hebei Region"
+    authors: 
+      - "Ying Zhang"
+      - "Yunyan Li"
+    year: 2024
+    journal: "Sustainability"
+    doi: "10.3390/su16124946"
+    methods:
+      - "Entropy weight method"
+      - "Coupling coordination model"
+      - "Obstacle degree model"
+    metrics:
+      - "Per capita GDP"
+      - "Per capita total retail sales of consumer goods"
+      - "Proportion of tertiary industry in GDP"
+      - "Per capita fiscal revenue"
+    geographical_focus: "13 cities in the Beijing–Tianjin–Hebei region, China"
+    temporal_scope: 
+      - 2010
+      - 2011
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+      - 2021
