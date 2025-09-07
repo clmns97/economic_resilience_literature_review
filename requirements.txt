@@ -1,0 +1,11 @@
+jupyter
+ipykernel
+matplotlib
+numpy
+pandas
+seaborn
+pyyaml
+networkx
+python-louvain
+scipy
+# add other packages as needed
